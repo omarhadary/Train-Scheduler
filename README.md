@@ -1,2 +1,2 @@
-# Week-7-Assignment-Train-Scheduler
-# https://gentle-cove-59472.herokuapp.com/
+# Train-Scheduler
+# https://train-scheduler-app.herokuapp.com/
